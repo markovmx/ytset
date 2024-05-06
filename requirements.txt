@@ -1,0 +1,16 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+decorator==4.4.2
+idna==3.7
+imageio==2.34.1
+imageio-ffmpeg==0.4.9
+moviepy==1.0.3
+numpy==1.26.4
+pillow==10.3.0
+proglog==0.1.10
+pycodestyle==2.11.1
+pydub==0.25.1
+requests==2.31.0
+setuptools==69.5.1
+tqdm==4.66.4
+urllib3==2.2.1
