@@ -2,3 +2,4 @@ venv
 output
 .vscode
 **/.DS_Store
+assets/*
